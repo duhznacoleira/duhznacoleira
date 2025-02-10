@@ -2,7 +2,7 @@
 <h3 align="center">My name is Douglas Serrano</h3>
 <p align="center">Currently trying to learn Java
 <h2> </h2>
-
+<h4 align="center">Weekly Stats (I Think lol)</h4>
 <!--START_SECTION:waka-->
 
 ```txt
