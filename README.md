@@ -1,6 +1,6 @@
 <h1 align="center">Hey </h1>
 <h3 align="center">My name is Douglas Serrano</h3>
-<p align="center"><img src="cheeky.jpg" alt="My cat, Chiqui" width="200" height="200">
+<p align="center"><img src="cheeky.jpg" alt="My cat, Chiqui" width="250" height="250">
 <p align="center">Currently trying to learn Java
 <h2> </h2>
 <h4 align="center">Weekly Stats (I Think lol)</h4>
